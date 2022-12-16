@@ -1,6 +1,7 @@
 ![](https://github.com/MikhailLipanin/MikhailLipanin/blob/main/header.png)
 
-![](https://github-readme-stats.vercel.app/api?username=MikhailLipanin&show_icons=true&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MikhailLipanin&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=MikhailLipanin&show_icons=true&hide_border=true&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=MikhailLipanin&hide_border=true&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikhailLipanin&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=1000&multiline=true&width=300&height=200&lines=...........................;...........................;...........................;...........................;...........................;...........................;...........................)](https://git.io/typing-svg)
