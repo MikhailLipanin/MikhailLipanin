@@ -7,4 +7,4 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikhailLipanin&theme=tokyonight)
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=1000&multiline=true&width=300&height=200&lines=......................;......................;......................;......................;......................;......................;.....................)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=1000&multiline=true&width=300&height=200&lines=.........;.........;.........;.........;.........;.........;.........)
